@@ -20,5 +20,11 @@ input[type='email']{
   background-image: none;
   border: 1px solid 4px;
   border-radius: 4px;
+  /* margin-bottom: 20px; */
+}
+.form-control{
   margin-bottom: 20px;
+}
+.error{
+  color: brown;
 }
